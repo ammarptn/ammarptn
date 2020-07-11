@@ -1,9 +1,12 @@
 ### Hi there 👋
-Hi my name is Ammar Lanui, I'm start to make android app since 2012 
+Hi, I'm Ammar Lanui, I'm Android developer who start to making Android app since 2012
 
 Associate Android Developer Certificate #1: https://bcert.me/bc/html/show-badge.html?b=pwtbfrb
 
 Associate Android Developer Certificate #2: https://www.credential.net/ell4ji5u
+
+
+
 <!--
 **ammarptn/ammarptn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
