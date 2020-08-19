@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Ammar Lanui, I'm Android developer who start to making Android app since 2012
+Hi, I'm Ammar Lanui, I'm Android developer who starts to making Android app since 2012
 
 Associate Android Developer Certificate #1: https://bcert.me/bc/html/show-badge.html?b=pwtbfrb
 
